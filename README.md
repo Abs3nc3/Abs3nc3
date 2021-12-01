@@ -11,7 +11,4 @@ pronouns: They/She
   - Latency Client is a minecraft cheat client with great bypasses and a nice UI
 ## Languages I Know
 
-<details>
-<summary>Click to expand!</summary>
 C++ | Little C# | Some Python | HTML | Some PHP | Currently learning Java
-</details>
