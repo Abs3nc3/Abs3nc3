@@ -13,10 +13,5 @@ pronouns: They/She
 
 <details>
 <summary>Click to expand!</summary>
-- C++
-- Little C#
-- Some Python
-- HTML
-- Some PHP
-- Currently learning Java
+C++ | Little C# | Some Python | HTML | Some PHP | Currently learning Java
 </details>
