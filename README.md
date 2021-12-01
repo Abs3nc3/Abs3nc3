@@ -4,7 +4,7 @@
 
 I'm a developer whose been programming for ~3 years. I speak English and Dutch.
 
-pronouns: They/She  
+pronouns: -
 ## Projects I'm working on
 
 - Latency Client
